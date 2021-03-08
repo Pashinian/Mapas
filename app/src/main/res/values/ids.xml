@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_mostrar" type="id" />
+    <item name="spn_ciudades" type="id" />
+</resources>
